@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/crazymarky-mcp-nuclei-server-badge.png)](https://mseep.ai/app/crazymarky-mcp-nuclei-server)
+
 # MCP Nuclei Server
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
